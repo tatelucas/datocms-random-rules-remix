@@ -54,8 +54,8 @@ export default function Index() {
     <div className="container">
       <section className="section">
         <div className="flex">
-          <h1 className="title">Remix Blog</h1>
-          <h4 className="subtitle">A blog example using Remix and DatoCMS.</h4>
+          <h1 className="title">Random Rules</h1>
+          <h4 className="subtitle">Web3 in 3 minutes.</h4>
         </div>
       </section>
       <section className="section">
